@@ -7,17 +7,4 @@ app.use('/api/v1/todos',todoRoutes);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-export default express();
+export default app;
